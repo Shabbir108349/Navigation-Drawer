@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:id="@+id/first">
+    <item android:title="Shabbir"
+        android:id="@+id/shabbir"/>
+    <item android:title="Shawon"
+        android:id="@+id/shawon"/>
+</group>
+
+    <item android:id="@+id/home"
+        android:title="Home"/>
+
+</menu>
